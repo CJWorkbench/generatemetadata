@@ -5,6 +5,9 @@ import re
 # ---- SelectColumns ----
 
 class Importable:
+    def __init__(self):
+        pass
+
     @staticmethod
     def event():
         pass
