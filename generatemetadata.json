@@ -1,5 +1,13 @@
 {
   "name": "Generate Metadata",
   "id_name": "generatemetadata",
-  "category" : "Invisible Institute"
+  "category" : "Invisible Institute",
+  "parameters": [
+    {
+      "name": "Dummy Column",
+      "id_name": "coldummy",
+      "type": "string",
+      "visible": true
+    }
+  ]
 }
