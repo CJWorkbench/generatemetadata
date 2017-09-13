@@ -1,7 +1,7 @@
 {
   "name": "Metadata Report",
   "id_name": "generatemetadata",
-  "category" : "Visuzalize",
+  "category" : "Visualize",
   "icon": "info",
   "description": "Generate a metadata report per column: Count of non null values, Count of uniques, and object type."
 }
