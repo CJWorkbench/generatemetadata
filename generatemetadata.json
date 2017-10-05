@@ -3,5 +3,12 @@
   "id_name": "generatemetadata",
   "category" : "Visualize",
   "icon": "info",
-  "description": "Generate a metadata report per column: Count of non null values, Count of uniques, and object type."
-}
+  "description": "Generate a metadata report per column: Count of non null values, Count of uniques, and object type.",
+  "parameters": [
+    {
+      "name": "Count all non null values, uniques, and object type.",
+      "id_name": "Metadata_statictext",
+      "type": "statictext"
+    }
+  ]
+  }
