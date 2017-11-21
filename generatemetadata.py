@@ -1,7 +1,5 @@
-import io
-
 def render(table, params):
-    buf = self.io.StringIO()
+    buf = StringIO()
     table.info(buf=buf)
     s = buf.getvalue()
     info_values = [re.split("\\s\\s+",x) for x in s.split("\n")]
