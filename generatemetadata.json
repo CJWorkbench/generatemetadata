@@ -4,6 +4,7 @@
   "category" : "Analyse",
   "icon": "info",
   "description": "Generate a metadata report per column: Count of non null values, Count of uniques, and object type.",
+  "help_url":"modules/analyse/metadata-report",
   "parameters": [
     {
       "name": "Count all non null values, uniques, and object type.",
