@@ -10,6 +10,12 @@
       "name": "Count all non null values, uniques, and object type.",
       "id_name": "Metadata_statictext",
       "type": "statictext"
+    },
+    {
+      "name":"Widget count",
+      "id_name":"widgetcount",
+      "type":"integer",
+      "default":"200"
     }
   ]
-  }
+}
